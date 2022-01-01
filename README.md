@@ -13,8 +13,7 @@ TLE is a Discord bot centered around Competitive Programming.
 4. Navigate to Build -> Storage -> Get Started. And create a Bucket. Save the Bucket URL (ProjectName.appspot.com).
 
 ## Creating [CLIST API](https://clist.by/) Key
-- Navigate to [Clist API Docs](https://clist.by/api/v2/doc/) and click on "show my api-key". And Save the Param Query. Ex. username=iwant&api_key=xxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- Navigate to [Clist API Docs](https://clist.by/api/v2/doc/) and click on "show my api-key". And Save the Param Query. Ex. username=iwant&api_key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ## Creating A Heroku App
 1. Fork [Repo](https://github.com/Better-CF/TLE)
 2. Change heroku stack to container [link](https://stackoverflow.com/questions/59725708/set-the-stack-for-an-existing-heroku-app-from-heroku-18-to-container-for-a-doc) by `https://heroku.com/deploy?template=<Link to your forked repo>`.
